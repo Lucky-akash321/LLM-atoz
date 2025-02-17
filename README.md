@@ -1,5 +1,7 @@
 # PwC Power BI Internship
 
+![](https://github.com/Lucky-akash321/PWC-Power-BI/blob/main/Diversity%20%26%20Inclusion.Image%201.png)
+
 ## Overview
 
 The PwC Power BI Internship provides an exciting opportunity to work with real-world data and develop advanced business intelligence skills using Power BI. Throughout the internship, you will gain hands-on experience in data analysis, visualization, and reporting. By working on impactful projects, you'll learn how to turn complex data into actionable insights that can drive business decisions.
