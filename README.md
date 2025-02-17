@@ -27,6 +27,8 @@ The goal of this internship is to build your skills in data visualization and bu
 - **Excel** (for preliminary data manipulation)
 - **SQL** (for querying data from databases)
 
+![](https://github.com/Lucky-akash321/PWC-Power-BI/blob/main/Diversity%20%26%20Inclusion.Image%202.png)
+
 ## Getting Started
 
 ### Prerequisites
