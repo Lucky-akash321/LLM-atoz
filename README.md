@@ -1,4 +1,4 @@
-# PwC Power BI Internship
+# PWC Power BI Internship
 
 ![](https://github.com/Lucky-akash321/PWC-Power-BI/blob/main/Diversity%20%26%20Inclusion.Image%201.png)
 
